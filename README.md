@@ -1,4 +1,4 @@
-# startupnamer
+# Flutter Recipe App
 
 A flutter app that implements [a recipes interface](https://www.instagram.com/p/CB4EXLTJqVd/) created by [@dreadedcoder](https://www.instagram.com/thedreadedcoder/)
 
@@ -6,9 +6,11 @@ A flutter app that implements [a recipes interface](https://www.instagram.com/p/
 
 <img src="screenshots/screenshot.png" width="400">
 
-## Getting Started
+## Widgets Breakdown
 
-This project is a starting point for a Flutter application.
+![widget-breakdown-gif](https://user-images.githubusercontent.com/2737103/86398353-ffbd5000-bc94-11ea-89b0-c6634be80316.gif)
+
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
